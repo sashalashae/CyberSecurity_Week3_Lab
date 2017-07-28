@@ -30,8 +30,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Everything went smoothly except for challenge 2.  I was missing one ' and it took me a while to find it.  Other than that I plan on completing the bonus assignments once I return from vacation next week.  The internet at the hotel I am staying at this week charges by the day for wifi.
+   I plan on completing the bonus assignments once I return from vacation next week.  The internet at the hotel I am staying at this week charges by the day for wifi.
 
 ## License
 
